@@ -9,3 +9,4 @@ gganimate -> https://gganimate.com/articles/gganimate.html
 
 ## Cheet Sheets
 
+https://github.com/rstudio/cheatsheets
